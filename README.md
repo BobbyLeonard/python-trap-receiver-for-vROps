@@ -8,6 +8,7 @@ Create and outbound SNMP plugin in vROps like in the following image:
 Create a custom notifcation rule in vROps which uses the vROps outbound SNMP plugin you just created.<br />
 This rule will define what is sent to the script.<br />
 
+
 See the image below for example output of the script:<br />
 
 ![exampleOutput](https://user-images.githubusercontent.com/39626036/151815913-3316287a-f45c-46e8-8526-4588f478887a.png)
